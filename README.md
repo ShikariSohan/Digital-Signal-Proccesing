@@ -2,10 +2,13 @@
 ## Course: CSE 326 (Digital Signal Processing Lab)  
 ### Laboratory Assignment  
 1. Generate and plot the elementary signals in DSP (Impulse, unit impulse, ramp, Exponential, and sinusoid signals).  
-[Solution](1.%20Elementary%20signals%20in%20DSP.ipynb)
-2. Compute the linear convolution of two signals (Eqn. 2.3.17).
+[Solution](1.%20Elementary%20signals%20in%20DSP.ipynb)  
+2. Compute the linear convolution of two signals (Eqn. 2.3.17).  
+[Solution](2.%20Linear%20convolution%20of%20two%20signals.ipynb)  
 3. Compute the cross-correlation sequence of two signals x(n) and h(n). [Hint: 2.6.1]
-4. Determine the autocorrelation sequence of the signal x(n). [Hint: 2.6.1]
+[Solution](3.%20Cross-correlation%20sequence%20of%20two%20signals%20.ipynb)  
+4. Determine the autocorrelation sequence of the signal x(n). [Hint: 2.6.1]  
+[Solution](4.%20Autocorrelation%20sequence%20of%20the%20signal.ipynb)
 5. Determine and plot the Fourier series of DT periodic signal. [Eqn. 4.2.7 and 4.2.8]
 6. Compute Discrete Fourier Transform (DFT) of a signal using DFT equation.
 7. Compute inverse DFT of the signal obtained in (6). Cross check your results with Matlab/
